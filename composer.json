@@ -1,0 +1,14 @@
+{
+    "name": "deepak/membersuite_sdk",
+    "authors": [
+        {
+            "name": "Deepak",
+            "email": "deepak@cmswebsiteservices.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Membersuite\\": "src/"
+        }
+    }
+}
