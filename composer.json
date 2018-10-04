@@ -1,5 +1,6 @@
 {
     "name": "deepak/membersuite_sdk",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Deepak",
