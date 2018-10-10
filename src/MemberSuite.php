@@ -1,13 +1,13 @@
 <?php
 namespace Membersuite;
 
-use Membersuite\Library\Config;
-use Membersuite\Library\Curl;
+use Membersuite\Lib\Config;
+use Membersuite\Lib\Curl;
 use Membersuite\Classes\Login;
 use Membersuite\Classes\SearchApI;
 use Membersuite\Classes\Data;
 use Membersuite\Classes\MetaData;
-use Membersuite\Library\Cryptomanager;
+use Membersuite\Lib\Cryptomanager;
 use Membersuite\Classes\Job;
 use Membersuite\Classes\Diagnostics;
 use Membersuite\Classes\Document;

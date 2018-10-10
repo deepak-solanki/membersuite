@@ -1,5 +1,5 @@
 <?php
-namespace Membersuite\Library;
+namespace Membersuite\Lib;
 
 class Config {
 

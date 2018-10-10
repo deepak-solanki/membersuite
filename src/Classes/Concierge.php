@@ -1,9 +1,9 @@
 <?php
 namespace Membersuite\Classes;
 
-use Membersuite\Library\Config;
-use Membersuite\Library\Curl;
-use Membersuite\Library\CryptoManager;
+use Membersuite\Lib\Config;
+use Membersuite\Lib\Curl;
+use Membersuite\Lib\CryptoManager;
 
 class Concierge {
 
