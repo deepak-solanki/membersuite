@@ -7,7 +7,7 @@ use Membersuite\Classes\Login;
 use Membersuite\Classes\SearchApI;
 use Membersuite\Classes\Data;
 use Membersuite\Classes\MetaData;
-use Membersuite\Lib\Cryptomanager;
+use Membersuite\Lib\CryptoManager;
 use Membersuite\Classes\Job;
 use Membersuite\Classes\Diagnostics;
 use Membersuite\Classes\Document;
